@@ -1,33 +1,47 @@
 fileFormatVersion: 2
-guid: 188b601ff912291419404be2a8857971
-timeCreated: 1449343907
+guid: 394c9611d6b0aee43a5d5fc1fd1a26fa
+timeCreated: 1449871514
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Camera
-    100002: Cube
-    100004: Cube.001
-    100006: Cube.002
-    100008: Hemi
-    100010: Point
+    100000: Circle
+    100002: Circle.001
+    100004: Circle.003
+    100006: Circle.004
+    100008: Circle.005
+    100010: Circle.006
     100012: //RootNode
-    400000: Camera
-    400002: Cube
-    400004: Cube.001
-    400006: Cube.002
-    400008: Hemi
-    400010: Point
+    100014: Circle.002
+    400000: Circle
+    400002: Circle.001
+    400004: Circle.003
+    400006: Circle.004
+    400008: Circle.005
+    400010: Circle.006
     400012: //RootNode
-    2300000: Cube
-    2300002: Cube.001
-    2300004: Cube.002
-    3300000: Cube
-    3300002: Cube.001
-    3300004: Cube.002
-    4300000: Cube.002
-    4300002: Cube.001
-    4300004: Cube
+    400014: Circle.002
+    2300000: Circle
+    2300002: Circle.001
+    2300004: Circle.003
+    2300006: Circle.004
+    2300008: Circle.005
+    2300010: Circle.006
+    2300012: Circle.002
+    3300000: Circle
+    3300002: Circle.001
+    3300004: Circle.003
+    3300006: Circle.004
+    3300008: Circle.005
+    3300010: Circle.006
+    3300012: Circle.002
+    4300000: Circle.006
+    4300002: Circle.004
+    4300004: Circle.003
+    4300006: Circle.005
+    4300008: Circle.001
+    4300010: Circle
+    4300012: Circle.002
   materials:
     importMaterials: 1
     materialName: 0
